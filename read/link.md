@@ -21,9 +21,10 @@ has_children: false
 
 ## Garuda Linux / Edition
 
-| Garuda Linux Edition |
-| -------------------- |
-| [Garuda Sway](https://garudalinux.org/installation?edition=sway) |
+| Garuda Linux Edition / Settings |
+| ---- |
+| [Garuda Common Settings](https://gitlab.com/garuda-linux/themes-and-settings/settings/garuda-common-settings) |
+| [Garuda Sway](https://gitlab.com/garuda-linux/themes-and-settings/settings/garuda-sway-settings) |
 
 
 
